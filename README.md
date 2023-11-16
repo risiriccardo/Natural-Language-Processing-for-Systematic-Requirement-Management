@@ -7,7 +7,7 @@ Here is how to use the code:
     `git clone https://github.com/risiriccardo/Alstom_Internship.git`
 3) navigate to repository:
 
-    `cd repository`
+    `cd Alstom_Internship`
 3) create a conda environment and activate it:
 
     `conda create --name Alstom_Internship python=3.10.11`
