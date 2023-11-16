@@ -1,6 +1,6 @@
 # Alstom_Internship
 
-##Here is how to use the code:
+## Here is how to use the code:
 
 1) clone this repository:
 
