@@ -1,4 +1,4 @@
-# Text Classification - Industrial Optimized Pipeline for Requirement Management
+# Text Classification - Natural Language Processing for Systematic Requirement Management
 
 This code is optimized to run on Google Colab. In order to run it, please follow these steps:
 
